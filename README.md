@@ -15,3 +15,5 @@ Special thanks to <a href="https://github.com/OgGhostJelly" target="_blank">OgGh
 <h2>Step 3.</h1>
 <h3>- Run mean.py module</h3>
 <img src="https://raw.githubusercontent.com/coderserif/Python-Statistics-Calculator/main/gifs/3.gif"><img>
+
+(this program has like fake "loading" text and silly me thought it was cool? feel free to remove them if you want 😅)
