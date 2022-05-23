@@ -15,10 +15,6 @@ print("----------------------------------")
 print("")
 print("Loading...")
 time.sleep(1)
-print("Running Startup...")
-time.sleep(0.8)
-print("Booting Compiler...")
-time.sleep(0.5)
 print("")
 num = []
 print("Enter data set separated with commas (e.g 1, 2, 3, 4, 5)")
@@ -27,6 +23,8 @@ print("! Remember that the 0s in a set array does not count in mathematics. !")
 dataset=input("Data Set: ")
 
 #data sorting
+print("")
+print("Compiling Data...")
 n = ''
 for i in range(len(dataset)):
     if dataset[i]==',':
@@ -35,15 +33,12 @@ for i in range(len(dataset)):
     else:
         n += dataset[i]
 num.append(int(n))
-
 numlength = len(num)
 num.sort()
+time.sleep(1)
 
 
 #ask what calculation
-print("")
-print("Compiling Data...")
-time.sleep(1)
 print("")
 print("Thank you for inputing your values. What would you like to calculate?")
 print("Type: 'mean', 'mad', 'median', or 'ranges'")
