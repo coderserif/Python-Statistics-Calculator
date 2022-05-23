@@ -12,3 +12,4 @@ Statistics Calculator to find the mean, median, range, and mad of a data set!
 
 <h2>Step 3.</h1>
 <h3>- Run mean.py module</h3>
+<img src="https://raw.githubusercontent.com/coderserif/Python-Statistics-Calculator/main/gifs/3.gif"><img>
