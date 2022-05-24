@@ -2,7 +2,6 @@ __author__ = 'SerifPerida'
 
 #import modules
 import math
-import time
 
 
 #print start
