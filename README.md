@@ -16,4 +16,4 @@ Special thanks to <a href="https://github.com/OgGhostJelly" target="_blank">OgGh
 <h3>- Run mean.py module</h3>
 <img src="https://raw.githubusercontent.com/coderserif/Python-Statistics-Calculator/main/gifs/3.gif"><img>
 
-(this program has like fake "loading" text and silly me thought it was cool? feel free to <a href="https://github.com/coderserif/Python-Statistics-Calculator/blob/main/PSC%20NO%20LOADERS.zip?raw=true">download a version without them</a> :trollface:)
+(this program has fake "loading" text and silly me thought it was cool? so a version without waiting times called "mean_noloaders.py" will be included in the zip file)
