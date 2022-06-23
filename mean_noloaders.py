@@ -23,11 +23,11 @@ print('Compiling Data...')
 n = ''
 for i in range(len(dataset)):
     if dataset[i]==',':
-        num.append(int(n))
+        num.append(float(n))
         n = ''
     else:
         n += dataset[i]
-num.append(int(n))
+num.append(float(n))
 
 numlength = len(num)
 num.sort()
@@ -69,7 +69,7 @@ def mad():
 #median
 def median():
   if not (numlength%2):
-    return (num[int((numlength/2)-1)] + num[int(numlength/2)])/2
+    return (num[float((numlength/2)-1)] + num[float(numlength/2)])/2
   else:
     return num[math.ceil(numlength/2)-1]
 
